@@ -1,0 +1,63 @@
+body{
+    background: #FAD4C0;
+    font-family: 'Helvetica';
+    color:#143642;
+    margin: 0;
+}
+
+h1{
+    font-family: 'Satisfy', cursive;
+    font-size: 100px;
+    color: #A8201A;
+    text-align: center;
+    margin-top: 0;
+}
+h2{
+    font-family: 'Acme', sans-serif;
+    font-size: 50px;
+    color: #EC9A29;
+}
+
+img{
+    width: 150px;
+}
+
+
+div{
+    /* width: 33%; */
+    /* float: left; */
+    text-align: center;
+}
+
+p, h1, h2, h3{
+    padding: 0px;
+}
+
+p{
+    text-align: left;
+    margin: 20px;
+}
+
+.banner {
+    background-color: #BFF0D4;
+}
+
+#mainheading{
+    background-image: url(images/dog3.jpeg);
+    height: 60vh;
+    width: 100%;
+    background-size: 100%;
+    vertical-align: middle;
+    background-position-y: 60%;
+
+}
+
+#footer{
+    width: 100%;
+    background-color: #E26D5A;
+    
+}
+
+#footer p{
+    text-align: center;
+}
